@@ -1,5 +1,5 @@
 import { commonAPI } from "./commonAPI";
-import {server_url} from'./server_url.js'
+import {server_url} from'./server_url.js';
 
 // upload video api
 
